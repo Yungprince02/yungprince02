@@ -82,8 +82,7 @@ I'm open to study sessions, collabs, and hacking convos. Reach me here:
 
 ## 📈 My GitHub Stats
 
-![Taliat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taliatalameen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taliatalameen&layout=compact&theme=radical)
+![Taliat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yungprince02&show_icons=true&theme=radical)  
 
 ---
 
